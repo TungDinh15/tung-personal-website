@@ -1,0 +1,14 @@
+.contact {
+    /* background: linear-gradient(90.21deg, rgba(206, 227, 230, 0.5) -5.91%, rgba(111, 188, 226, 0.5) 111.58%); */
+    padding: 60px 0 200px 0;
+  }
+  .contact img {
+    width: 92%;
+  }
+  .contact h1, h3{
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    color: #000;
+  }
+  
